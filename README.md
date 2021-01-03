@@ -1,2 +1,2 @@
 # wptips
-A collections WP Tip
+A collection for WP Tips
